@@ -1,5 +1,5 @@
 # Project Title
-The Algorithmically Determined Documentary
+The Algorithmically Determined Documentary 
 
 ## Authors
 - Insert main author name, surname, github account
