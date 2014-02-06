@@ -28,4 +28,4 @@ function test() {
 ## Images & Videos
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
-![Example Image](http://dl.dropboxusercontent.com/u/6025395/quote-Dziga-Vertov-i-am-eye-i-am-a-mechanical.jpg "Example Image")
+![Example Image](https://f.cloud.github.com/assets/6604218/2098614/943f5efc-8f2f-11e3-8269-e9a17ae216f9.jpg "Example Image")
