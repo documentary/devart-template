@@ -29,5 +29,3 @@ function test() {
 NOTE: For additional images you can either use a relative link to an image on this repo or an absolute link to an externally hosted image.
 
 ![Example Image](http://dl.dropboxusercontent.com/u/6025395/quote-Dziga-Vertov-i-am-eye-i-am-a-mechanical.jpg "Example Image")
-
-https://www.youtube.com/watch?v=30yGOxJJ2PQ
